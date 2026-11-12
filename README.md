@@ -26,6 +26,10 @@ agnes-image-2.5-prompt-skill/
 ├── README.md
 ├── LICENSE
 └── examples/
+    ├── text-to-image.md
+    ├── image-editing.md
+    └── prompt-optimization.md
+
 ```
 
 ## 安装与使用
@@ -64,10 +68,14 @@ agnes-image-2.5-prompt-skill/
 
 核心文件：`SKILL.md`
 
-## 许可与声明
+## 开源许可证
 
-本项目为独立制作的提示词技能包，与 Agnes 官方不存在隶属或官方认证关系。
+本项目采用 [MIT License](LICENSE) 开源许可证。
 
-AGNES Image 2.5 为对应产品名称，本项目不包含 API 接口、密钥或视频生成模块。
+你可以自由使用、复制、修改和分发本项目，但需要保留原始版权声明和许可证文本。
 
-使用者应遵守相关平台的使用规则及第三方知识产权要求。
+## 免责声明
+
+本项目是独立制作的提示词技能包，与 Agnes 官方不存在隶属、合作或官方认证关系。
+
+本项目仅提供 AGNES Image 2.5 的中文图像提示词生成与优化规则，不包含 API 接口、密钥、程序调用或视频生成模块。
